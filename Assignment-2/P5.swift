@@ -1,9 +1,11 @@
 /*
+
 * * * * * 
 * * * * 
 * * * 
 * * 
 * 
+
 */
 let n=5
 for i in stride(from:n,to:0,by:-1){
