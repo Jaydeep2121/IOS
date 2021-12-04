@@ -7,7 +7,6 @@ func div(a:inout Int,b:inout Int) throws
 {
   guard b>0 else{
     throw numError.divZero
-    return
   }
   print("a=\(a) b= \(b)")
 }
